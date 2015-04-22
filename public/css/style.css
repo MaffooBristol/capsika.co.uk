@@ -1,0 +1,24 @@
+#page-index {
+  width: 400px;
+  height: 200px;
+  text-align: center;
+  margin: 60px auto 0px;
+}
+#page-index h1 {
+  font-family: "Comic Sans MS";
+  color: #f0f;
+}
+#page-index a {
+  font-family: "Comic Sans MS";
+  color: #fff;
+}
+#page-index a.soundcloud {
+  color: #ffa500;
+}
+#page-index a.facebook {
+  color: #0f0;
+}
+body {
+  overflow: hidden;
+  background: #00f;
+}
