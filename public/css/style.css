@@ -1,15 +1,14 @@
 #page-index {
-  width: 400px;
   height: 200px;
   text-align: center;
   margin: 60px auto 0px;
 }
 #page-index h1 {
-  font-family: "Comic Sans MS";
+  font-family: "Comic Sans MS", "Marker Felt", "Kristen ITC", sans-serif;
   color: #f0f;
 }
 #page-index a {
-  font-family: "Comic Sans MS";
+  font-family: "Comic Sans MS", "Marker Felt", "Kristen ITC", sans-serif;
   color: #fff;
 }
 #page-index a.soundcloud {
